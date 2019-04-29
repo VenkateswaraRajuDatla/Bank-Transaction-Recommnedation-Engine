@@ -1,0 +1,54 @@
+.tableheader {
+  font-size: 14px;
+  font-size: .875rem;
+  line-height: 1.43;
+  background: #4D525B;
+  opacity: 1;
+  border-top: 0;
+  height: 56px;
+  text-transform: uppercase;
+  vertical-align: middle;
+  padding-left: 24px;
+  position: relative;
+  color:#F7F7F7;
+
+  box-sizing: border-box;
+
+}
+.tableProject{
+  box-shadow: 0 0 4px 0 rgba(0,0,0,.08), 0 2px 4px 0 rgba(0,0,0,.12);
+  border-radius: 3px;
+  background: #fff;
+  border-radius: 3px 3px 0 0;
+  margin-bottom: 18px;
+
+  overflow: hidden;
+  width: 100%;
+  font-size: 14px;
+  font-size: .875rem;
+
+  line-height: 1.43;
+  padding-left: 24px;
+}
+.projectHeader{
+  font-weight: 700;
+  margin-bottom: 6px;
+  overflow: hidden;
+  padding-left: 40px;
+  font-size: 20px;
+  line-height: 1.4;
+  font-weight:normal ;
+
+}
+.ProjectTable-description{
+  font-size:0.98rem;
+}
+.bidbutton{
+  display:none;
+}
+.dynamicrowdata:hover  .bidbutton {
+  display: block;
+}
+.projTitle{
+  position:-ms-device-fixed;
+}

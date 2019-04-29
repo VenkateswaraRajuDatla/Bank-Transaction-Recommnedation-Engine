@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.948" tests="11" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-04-12T06:59:58" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Login" timestamp="2019-04-12T06:59:58" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.294">
+    <testcase name="Login Login test with valid credentials" time="0.294" classname="Login test with valid credentials">
+    </testcase>
+  </testsuite>
+  <testsuite name="Login" timestamp="2019-04-12T06:59:58" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.163">
+    <testcase name="Login Login test with bad credentials" time="0.163" classname="Login test with bad credentials">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sign Up" timestamp="2019-04-12T06:59:58" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.162">
+    <testcase name="Sign Up Sign Up test with credentials" time="0.162" classname="Sign Up test with credentials">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sign Up" timestamp="2019-04-12T06:59:59" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.166">
+    <testcase name="Sign Up Sign Up test with bad credentials" time="0.166" classname="Sign Up test with bad credentials">
+    </testcase>
+  </testsuite>
+  <testsuite name="Mine Block" timestamp="2019-04-12T06:59:59" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.165">
+    <testcase name="Mine Block Mining a block test " time="0.165" classname="Mining a block test ">
+    </testcase>
+  </testsuite>
+  <testsuite name="Loan Prediction" timestamp="2019-04-12T06:59:59" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.161">
+    <testcase name="Loan Prediction Loan Prediction test with valid details" time="0.161" classname="Loan Prediction test with valid details">
+    </testcase>
+  </testsuite>
+  <testsuite name="Loan Prediction" timestamp="2019-04-12T06:59:59" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.165">
+    <testcase name="Loan Prediction Loan Prediction test with invalid details" time="0.165" classname="Loan Prediction test with invalid details">
+    </testcase>
+  </testsuite>
+  <testsuite name="Bank Influx Prediction" timestamp="2019-04-12T06:59:59" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.167">
+    <testcase name="Bank Influx Prediction Bank Influx Prediction test with valid data file" time="0.167" classname="Bank Influx Prediction test with valid data file">
+    </testcase>
+  </testsuite>
+  <testsuite name="Bank Influx Prediction" timestamp="2019-04-12T06:59:59" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.169">
+    <testcase name="Bank Influx Prediction Bank Influx Prediction test with invalid data file" time="0.169" classname="Bank Influx Prediction test with invalid data file">
+    </testcase>
+  </testsuite>
+  <testsuite name="Block chain upload" timestamp="2019-04-12T07:00:00" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.164">
+    <testcase name="Block chain upload Block chain upload test with valid data file" time="0.164" classname="Block chain upload test with valid data file">
+    </testcase>
+  </testsuite>
+  <testsuite name="Block chain upload" timestamp="2019-04-12T07:00:00" tests="1" file="/Users/rishithrayaldandevenkata/Desktop/Final Project/btre/client/src/test/mocha_test.js" failures="0" time="0.172">
+    <testcase name="Block chain upload Block chain upload test with invalid data file" time="0.172" classname="Block chain upload test with invalid data file">
+    </testcase>
+  </testsuite>
+</testsuites>

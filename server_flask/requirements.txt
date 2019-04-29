@@ -1,0 +1,7 @@
+Flask
+flask_cors
+pprint
+werkzeug
+pandas
+numpy
+sklearn

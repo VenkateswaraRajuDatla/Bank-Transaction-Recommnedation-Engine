@@ -1,0 +1,74 @@
+.Toolbar{
+  position: fixed;
+  top:0;
+  left:0;
+  display: inline-block;
+  width:100%;
+}
+
+.nav-container{
+  margin: 0 0 15px 0;
+}
+
+
+.div1{
+
+  font-size: 20px;
+
+  display: flex;
+  background-color: #FFFFFF;
+  justify-content: space-between;
+}
+
+
+.div1 .searchcontainer {
+  float: right;
+}
+
+.div1 input {
+  padding: 1%;
+  margin: 2%;
+  border: 1px solid #000000;
+  font-size: 20px;
+
+}
+
+.headerBTRE {
+  padding: 0.5% 0.5% 0.5% 2%;
+  margin-top:0.2%;
+  margin-bottom: 0.2%;
+  span{
+    padding:0 0 0 0.5%;
+    font-weight: bold;
+  }
+}
+
+.div1 .searchcontainer button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.div1 .searchcontainer button:hover {
+  background: #ccc;
+}
+
+
+.div2{
+  background-color: #0099ff;
+  justify-content: space-between;
+  align-items:center;
+  box-sizing: border-box;
+  z-index: 90;
+}
+
+nav{
+  a:visited {
+    background-color: #004085;  }
+
+}
